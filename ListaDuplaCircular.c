@@ -7,7 +7,6 @@ Autor: Luís Felipe Marconi
 
 Compilador:
 gcc 4.8 - Ubuntu 14.04
-
 */
 #include <stdio.h>
 #include <stdlib.h>

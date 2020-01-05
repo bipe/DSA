@@ -1,7 +1,6 @@
 /*
 Programa que resolve o problema de Josephus com o numero de prisioneiros e numero de passos, a saída é o ultimo sobreivente
 */
-
 #include <stdio.h>
 #include <stdlib.h>
 
