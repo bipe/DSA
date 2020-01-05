@@ -1,6 +1,6 @@
 # Programas básicos em C
 
-###- fila-final.c 
+### fila-final.c 
 Arquivo de fila com funções:
 - criar fila
 - checagem se está vazia
@@ -8,7 +8,7 @@ Arquivo de fila com funções:
 - remoção
 - exibição da cabeça da fila
 
-###- ListaDupla.c 
+### ListaDupla.c 
 Arquivo de lista duplamente encadeada com funções:
 - criar lista
 - checagem se está vazia
@@ -17,7 +17,7 @@ Arquivo de lista duplamente encadeada com funções:
 - busca na lista
 - impressão da lista
 
-###- ListaDuplaCircular.c 
+### ListaDuplaCircular.c 
 Arquivo de lista duplamente encadeada circular, simulando lista de endereços com funções:
 - criar lista
 - impressão do anterior e próximo do primeiro nó
@@ -26,7 +26,7 @@ Arquivo de lista duplamente encadeada circular, simulando lista de endereços co
 - busca na lista
 - impressão da lista em ordem ou inversa
 
-###- ListaSimples.c 
+### ListaSimples.c 
 Arquivo de lista encadeada com funções:
 - criar lista
 - checagem se está vazia
@@ -34,6 +34,6 @@ Arquivo de lista encadeada com funções:
 - remoção no início, meio e fim
 - impressão da lista
 
-###- Josephus.c 
+### Josephus.c 
 Arquivo de simulação do problema de Josephus
 
